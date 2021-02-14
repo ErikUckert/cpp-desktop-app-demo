@@ -1,7 +1,7 @@
 # cpp-desktop-app-demo
 A playground for understanding C++ windows desktop apps with visual studio
 
-![header image][/img/header_image.png]
+![Here you should see a nice header image...]("/img/header_image.png")
 
 ## Resources
 
